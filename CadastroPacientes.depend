@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670867497 source:e:\desktop\trabalho diogo e luis\cadastropacientes\main.cpp
+	"raylib.h"
+	<stdio.h>
+
